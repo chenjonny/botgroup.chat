@@ -17,7 +17,7 @@ export const modelConfigs = [
   },
   {
     model: "doubao-1-5-lite-32k-250115",//豆包模型|火山引擎接入点（改成自己的）
-    apiKey: "ARK_API_KEY",
+    apiKey: "b1ad428f-8176-4b2a-879b-5394bb850fef",
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   },
   {
